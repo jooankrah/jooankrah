@@ -38,13 +38,17 @@
   <a href="https://nextjs.org" target="_blank"> 
     <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
   </a>
+&emsp;
+  <a href="https://nextjs.org" target="_blank"> 
+    <img alt="Svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white"/>
+  </a>
    &emsp;
   <a href="https://expressjs.com/" target="_blank"> 
     <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   </a>
   &emsp;
-  <a href="https://spring.io" target="_blank"> 
-    <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <a href="https://nestjs.com/" target="_blank"> 
+    <img alt="Nestjs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
   </a>
     &emsp;
   <a href="https://tailwindcss.com" target="_blank"> 
